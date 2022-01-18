@@ -46,13 +46,6 @@ export default function NavBar() {
             style={{ height: 35, width: 35 }}
           />
           <SocialIcon
-            url="https://www.youtube.com/channel/UChscURvKAoeKdgobBGqzjcA/channels"
-            className="mr-4"
-            target="_blank"
-            fgColor="#fff"
-            style={{ height: 35, width: 35 }}
-          />
-          <SocialIcon
             url="https://www.linkedin.com/in/amokelane-baloyi-0b39111bb/"
             className="mr-4"
             target="_blank"
