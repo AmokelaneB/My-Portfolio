@@ -9,16 +9,16 @@ export const projects = [
     visit: 'https://github.com/AmokelaneB/SchoolProject',
     id: 0,
   },
-  {
-    title: 'Travel Advisor',
-    description:
-      'A travel advisor that shows you high quality restaurants, hotels and attractions around you, and around the globe. Hotels, Restaurants and the Attractions are rated, ranked, and prepared in way that fully gives the user a guide on where to eat, sleep and or engage in fun activities. Along with a map to give the user a clearer picture about the sites they wish to travel to.',
-    image: '/images/Travel Advisor.png',
-    tags: ['React', 'JavaScript', 'API'],
-    source: 'https://amo-travel-advisor.netlify.app',
-    visit: 'https://amo-travel-advisor.netlify.app/',
-    id: 1,
-  },
+  // {
+  //   title: 'Travel Advisor',
+  //   description:
+  //     'A travel advisor that shows you high quality restaurants, hotels and attractions around you, and around the globe. Hotels, Restaurants and the Attractions are rated, ranked, and prepared in way that fully gives the user a guide on where to eat, sleep and or engage in fun activities. Along with a map to give the user a clearer picture about the sites they wish to travel to.',
+  //   image: '/images/Travel Advisor.png',
+  //   tags: ['React', 'JavaScript', 'API'],
+  //   source: 'https://amo-travel-advisor.netlify.app',
+  //   visit: 'https://amo-travel-advisor.netlify.app/',
+  //   id: 1,
+  // },
   // {
   //   title: 'WebRTC App',
   //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
