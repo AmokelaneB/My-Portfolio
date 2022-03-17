@@ -9,14 +9,25 @@ export const projects = [
     visit: 'https://github.com/AmokelaneB/SchoolProject',
     id: 0,
   },
+  {
+    title: 'Travel Advisor',
+    description:
+      'A travel advisor that shows you high quality restaurants, hotels and attractions around you, and around the globe. Hotels, Restaurants and the Attractions are rated, ranked, and prepared in way that fully gives the user a guide on where to eat, sleep and or engage in fun activities. Along with a map to give the user a clearer picture about the sites they wish to travel to.',
+    image: '/images/Travel Advisor.png',
+    tags: ['React', 'JavaScript', 'API'],
+    source: 'https://amo-travel-advisor.netlify.app',
+    visit: 'https://amo-travel-advisor.netlify.app/',
+  },
+
   // {
-  //   title: 'Travel Advisor',
+  //   title: "E-Commerce",
   //   description:
-  //     'A travel advisor that shows you high quality restaurants, hotels and attractions around you, and around the globe. Hotels, Restaurants and the Attractions are rated, ranked, and prepared in way that fully gives the user a guide on where to eat, sleep and or engage in fun activities. Along with a map to give the user a clearer picture about the sites they wish to travel to.',
-  //   image: '/images/Travel Advisor.png',
-  //   tags: ['React', 'JavaScript', 'API'],
-  //   source: 'https://amo-travel-advisor.netlify.app',
-  //   visit: 'https://amo-travel-advisor.netlify.app/',
+  //     "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+  //   image: "/images/2.png",
+  //   tags: ["React", "JavaScript"],
+  //   source: "https://google.com",
+  //   visit: "https://google.com",
+
   //   id: 1,
   // },
   // {
@@ -40,6 +51,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
+  { year: 2016, text: 'Matriculated' },
+  { year: 2017, text: 'Became a student at the University of Pretoria' },
+  {
+    year: 2021,
+    text: 'Completed the BCom Informatics program at the University of Pretoria',
+  },
   { year: 2016, text: 'Matriculated' },
   { year: 2017, text: 'Became a student at the University of Pretoria' },
   {
