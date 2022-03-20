@@ -16,7 +16,7 @@ export const projects = [
     image: '/images/Travel Advisor.png',
     tags: ['React', 'JavaScript', 'API'],
     source: 'https://amo-travel-advisor.netlify.app',
-    visit: 'https://amo-travel-advisor.netlify.app/',
+    visit: 'https://github.com/AmokelaneB/TravelAdvisor',
     id: 1,
   },
 
@@ -27,7 +27,7 @@ export const projects = [
     image: '/images/Expense_Tracker.png',
     tags: ['React', 'JavaScript', 'ChartJs', 'Speechly', 'Finances'],
     source: 'https://amo-expense-tracker.netlify.app',
-    visit: 'https://amo-expense-tracker.netlify.app',
+    visit: 'https://github.com/AmokelaneB/Expense-Tracker',
 
     id: 2,
   },
