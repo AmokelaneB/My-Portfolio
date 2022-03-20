@@ -52,9 +52,6 @@ const Header = () => (
       >
         <AiFillLinkedin size='3rem' />
       </SocialIcons>
-      <SocialIcons target='_blank' href='https://twitter.com/AmoSupreme'>
-        <AiFillTwitterCircle size='3rem' />
-      </SocialIcons>
     </Div3>
   </Container>
 );
