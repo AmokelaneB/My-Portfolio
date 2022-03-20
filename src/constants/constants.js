@@ -23,9 +23,9 @@ export const projects = [
   {
     title: 'Expense Tracker',
     description:
-      'An Expense Tracker that uses speech recognition to adds income and expense transactions to budget in order to help plan your finances better. Includes doughnut charts for income and expenses each, giving the user a clearer overview of the budget impact of each income or expense transaction. Voice recognition powered by Speechly.',
+      'An Expense Tracker that uses speech recognition to add income and expense transactions to your budget in order to help plan your finances better. App Includes doughnut charts for income and expenses each, giving the user a clearer overview of the budget impact of each income or expense transaction. Voice recognition powered by Speechly.',
     image: '/images/Expense_Tracker.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['React', 'JavaScript', 'ChartJs', 'Speechly', 'Finances'],
     source: 'https://amo-expense-tracker.netlify.app',
     visit: 'https://amo-expense-tracker.netlify.app',
 
