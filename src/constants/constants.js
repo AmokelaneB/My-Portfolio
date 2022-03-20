@@ -17,19 +17,20 @@ export const projects = [
     tags: ['React', 'JavaScript', 'API'],
     source: 'https://amo-travel-advisor.netlify.app',
     visit: 'https://amo-travel-advisor.netlify.app/',
+    id: 1,
   },
 
-  // {
-  //   title: "E-Commerce",
-  //   description:
-  //     "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-  //   image: "/images/2.png",
-  //   tags: ["React", "JavaScript"],
-  //   source: "https://google.com",
-  //   visit: "https://google.com",
+  {
+    title: 'Expense Tracker',
+    description:
+      'An Expense Tracker that uses speech recognition to adds income and expense transactions to budget in order to help plan your finances better. Includes doughnut charts for income and expenses each, giving the user a clearer overview of the budget impact of each income or expense transaction. Voice recognition powered by Speechly.',
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
 
-  //   id: 1,
-  // },
+    id: 2,
+  },
   // {
   //   title: 'WebRTC App',
   //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
